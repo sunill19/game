@@ -14,7 +14,7 @@ Download this project from here [Download Jungle Dash](https://downgit.github.io
 
 ## Requirements
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
+
 * Pygame
 
 ```bash
