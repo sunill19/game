@@ -10,7 +10,7 @@ Jungle Dash is a simple 2D platformer game made with python and pygame.
 
 ## How to Download
 
-Download this project from here [Download Jungle Dash](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Jungle%20Dash)
+
 
 ## Requirements
 
